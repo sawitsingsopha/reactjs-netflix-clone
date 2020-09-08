@@ -6,7 +6,7 @@ import requests from './requests';
 function App() {
   return (
     <div className="App">
-      <h1>Netflix</h1>
+      <h1>NETFLIEX</h1>
       <Row title="NETFLIIX ORIGINALS" fatchUrl={requests.fatchNetflixOriginals} />
       <Row title="Tranding Now" fatchUrl={requests.fatchTrending} />
     </div>
