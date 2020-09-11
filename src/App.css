@@ -1,13 +1,11 @@
-.App {
-  text-align: center;
+body{
+  margin: 0;
+  font-family: 'Prompt', sans-serif;
+  font-weight: 500;
 }
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+*{
+  margin:0;
 }
-
-.row__poster{
-  width: 100%;
-  object-fit: cover;
+.App{
+  background-color: #111111;
 }
